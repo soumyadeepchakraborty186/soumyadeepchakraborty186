@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://soumyadeepchakraborty186.io)
-<h1 align="center">Hi 👋, I'm Soumyadeep Chakraborty</h1>
-<h3 align="center">A passionate backend developer from India (Kolkata)</h3>
+<h1 align="center">Hi 😎, I'm Soumyadeep Chakraborty(AI & ML Student)</h1>
+<h3 align="center">A Passionate Full Stack Developer From India (Kolkata)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadeepchakraborty186&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepchakraborty186" /> </p>
 
