@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadeepchakraborty186&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadeepchakraborty186" /> </p>
 
-- 🔭 I’m currently working on [Firstwebsite](https://soumyadeepthor.github.io/firstwebsite.github.io/)
+- 🔭 I’m currently working on [Firstwebsite](https://soumyadeepchakraborty186.github.io/TECHEDU.github.io/)
 
-- 🌱 I’m currently learning **JAVA,PYTHON**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **anything**
 
