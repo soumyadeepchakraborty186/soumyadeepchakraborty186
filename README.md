@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **soumyadeepchakraborty2003@gmail.com**
+- 📫 How to reach me **soumyadeepchakraborty1809@gmail.com**
 
 - ⚡ Fun fact **I am not Funny**
 
